@@ -7,23 +7,23 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
 <p>
     <a href="https://github.com/Fyrrj?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;  
     <a href="https://github.com/Fyrrj?tab=repositories&language=html" target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
     <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
     <img alt="Material-UI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui&logoColor=white">
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;  
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;  
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
     &nbsp;&nbsp;
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white">
-</p>
+</p>  
 <p>
 <details>
 <summary>GitHub details:</summary>
