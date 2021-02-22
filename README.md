@@ -13,7 +13,7 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-    <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodejs&logoColor=white">
+    <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white">
     &nbsp;&nbsp;
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
 </p>
