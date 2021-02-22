@@ -14,7 +14,7 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
 </p>
 <p>
-    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+    <img alt="Windows" src=/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
      &nbsp;&nbsp;
 <details>
 <summary>GitHub details:</summary>
