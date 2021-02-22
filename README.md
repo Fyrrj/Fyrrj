@@ -10,7 +10,7 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
     <a href="https://github.com/Fyrrj?tab=repositories&language=html" target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
     <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=mongodb&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     &nbsp;&nbsp;
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
 </p>
