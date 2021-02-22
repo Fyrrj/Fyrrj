@@ -16,6 +16,8 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
     <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white">
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
     &nbsp;&nbsp;
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
 </p>
