@@ -21,7 +21,7 @@ Hi there, I'm <b>Klaudiusz</b>, a 24 years old hothead of React 😉 I'm current
     <a href="https://github.com/Fyrrj?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
     &nbsp;&nbsp;
-     <a href="https://github.com/Fyrrj?tab=repositories&q=vue" target="_blank"><img alt="vueJS" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue&logoColor=1f1f1f"></a>
+     <a href="https://github.com/Fyrrj?tab=repositories&q=vue" target="_blank"><img alt="vueJS" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=4FC08D"></a>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white">
 </p>  
