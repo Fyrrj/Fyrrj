@@ -2,7 +2,7 @@
     <a href="https://www.linkedin.com/in/klaudiusz-florek-b4a407167/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 <p>
-Hi there, I'm <b>Klaudiusz</b>, a 26 years old hothead of React 😉 I am currently working for Axpo Polska as a junior frontend developer.
+Hi there, I'm <b>Klaudiusz</b>, a 28 years old hothead of React and Next.js 😉 I am currently working for Axpo Polska as a Frontend developer.
 </p>
 <p>
     <a href="https://github.com/Fyrrj?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
